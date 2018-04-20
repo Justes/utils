@@ -1,7 +1,6 @@
 # 小工具
 
 <a href="#cities">cities.sql</a>
-
 <a href="#getfc">getfirstchar.php</a>
 
 
