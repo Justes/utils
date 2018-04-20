@@ -1,7 +1,8 @@
 # 小工具
 
 <a href="#cities">cities.sql</a>
-getfirstchar.php （#getfirstchar）
+
+<a href="#getfc">getfirstchar.php</a>
 
 
 <a name="cities">按照百度地图行政区划分，可直接导入数据库使用</a>
@@ -14,6 +15,6 @@ fc 为城市首字母， 只有 level 为 2 的才有值
 
 ------
 
-<span id="getfirstchar">getfirstchar.php</span>
+<a name="getfc">getfirstchar.php</a>
 
 获取汉字首字母，将汉字传入函数 getfirstchar ，返回首字母， 有些字识别不了
