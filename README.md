@@ -1,10 +1,10 @@
 # 小工具
 
-<a href="cities">cities.sql</a>
+<a href="#cities">cities.sql</a>
 getfirstchar.php （#getfirstchar）
 
 
-<span id="cities">按照百度地图行政区划分，可直接导入数据库使用</span>
+<a name="cities">按照百度地图行政区划分，可直接导入数据库使用</a>
 
 agb 为 百度地图返回的 adcode， 跟国家行政区划分一致
 
