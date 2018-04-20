@@ -4,7 +4,8 @@
 <a href="#getfc">getfirstchar.php</a><br />
 
 
-<a name="cities">按照百度地图行政区划分，可直接导入数据库使用</a><br />
+<a name="cities">cities.sql</a>
+按照百度地图行政区划分，可直接导入数据库使用<br />
 agb 为 百度地图返回的 adcode， 跟国家行政区划分一致<br />
 level 为等级 ， 1省 2市 3区<br />
 fc 为城市首字母， 只有 level 为 2 的才有值<br />
